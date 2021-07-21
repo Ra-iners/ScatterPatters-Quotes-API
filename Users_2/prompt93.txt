@@ -1,0 +1,3 @@
+{A}: This is bothering me.
+{B}: Well, you <i>are</i> digging up a corpse.
+{A}: No, not that. That's, uh, pretty par for the course, actually.

@@ -1,0 +1,2 @@
+{A}: Are you an ‘arr’ pirate, or a ‘yo ho ho’ pirate?
+{B}: I’m a ‘I’m not paying $600 for photoshop’ pirate.

@@ -1,0 +1,5 @@
+{A}: WHY. why did you give {C} a KNIFE?!
+{B}: I’m sorry. They said they felt unsafe.
+{A}: Now <i>I</i> feel unsafe!
+{B}: I’m sorry.
+{B}: ... would you like a knife?

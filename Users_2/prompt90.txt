@@ -1,0 +1,3 @@
+{A}: Do you have any skeletons in your closet?
+{B}: You mean literally or figuratively?
+{A}: Honestly, the fact that I have to specify...

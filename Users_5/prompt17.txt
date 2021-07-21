@@ -1,0 +1,4 @@
+{A}: Where's {B}, {C}, and {D}?
+{E}: They're playing hide and seek.
+{A}: Where?
+{E}: I don't think you get how this game works.

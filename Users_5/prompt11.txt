@@ -1,0 +1,5 @@
+{A}: Favorite horror movie? 
+{B}: It 
+{C}: Saw 
+{D}: Annabelle 
+{E}: High School Musical. after watching it I spent all my middle school years terrified that the entire school would start singing something and I’d be the only one who didn’t know the lyrics

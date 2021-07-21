@@ -1,0 +1,3 @@
+{A}: Is something burning?
+{B}: Just my love for you.
+{A}: {B}, the toaster is on fire.

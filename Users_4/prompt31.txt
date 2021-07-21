@@ -1,0 +1,8 @@
+{A}: Tonight, one of you will betray us.
+{B}: Is it me, {A}?
+{A}: No, it’s not you.
+{C}: Is it me, {A}?
+{A}: It’s not you either.
+{D}: Is it me, {A}?
+{A}:
+{A}, mockingly: Is IT mE {A}?

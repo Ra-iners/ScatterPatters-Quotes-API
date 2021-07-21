@@ -1,0 +1,4 @@
+{A}: I’m kind of crushing on someone, but I’m worried about telling you who it is, because you’re not going to like it
+{B}: Just rip the bandage off.
+{A}: It’s {C}.
+{B}: Put the bandage back on.

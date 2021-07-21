@@ -1,0 +1,4 @@
+{A}: What is your biggest weakness?
+{B}: I can be uncooperative.
+{A}: Okay, can you give me an example?
+{B}: No.

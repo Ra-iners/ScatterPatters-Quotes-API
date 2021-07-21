@@ -1,0 +1,7 @@
+{A}: I currently have 7 empty notebooks and I have no clue what to put in them. Suggestions?
+{B}: Put spaghetti in it.
+{A}: I'm currently taking suggestions from literally anyone but you.
+{C}: Put spaghetti in it.
+{A}: I'm currently taking suggestions from anyone but you two.
+{D}: Put spaghetti in it.
+{A}: I'm no longer taking suggestions.

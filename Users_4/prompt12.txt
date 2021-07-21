@@ -1,0 +1,4 @@
+{A}: Everyone, synchronize your watches. 
+{B}: I don’t know how to do that. 
+{C}: I don’t wear a watch. 
+{D}: Time is a construct.

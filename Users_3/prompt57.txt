@@ -1,0 +1,3 @@
+{A}: {B}, what do IDK, LY, and TTYL mean?
+{B}: I don’t know, love you, talk to you later
+{A}: Ok, I love you too, I’ll just ask {C}.

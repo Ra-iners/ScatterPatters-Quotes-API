@@ -1,0 +1,3 @@
+*The squad is having dinner together*
+{A}: {B}, can you pass the salt?
+{B}: *Throws {C} across the table*

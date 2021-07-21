@@ -1,0 +1,11 @@
+{A}, texting {B}: {B}! Help I’m being kidnapped
+{C}: Where are you?
+{A}: I’m with some strange person. In a car. Help.
+{B}: I’ll call {C}.
+{C}, answering their cell: Y’ello?
+{B}: Where’s {A}? They texted me that they were being kidnapped.
+{C}: {A}? Whaddya mean, they're right next to me-
+{C}:
+{C}: I’ll call you back. *hangs up*
+{C}: THE NEW HAIRCUT ISN’T THAT BAD!
+{A}: WHO ARE YOU?!

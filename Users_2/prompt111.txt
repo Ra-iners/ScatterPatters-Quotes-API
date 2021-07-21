@@ -1,0 +1,3 @@
+{A}: Change is inedible.
+{B}: Don't you mean inevitable?
+{A}, spitting out coins: No, I did not.

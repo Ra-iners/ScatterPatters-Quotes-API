@@ -1,0 +1,4 @@
+{A}: How do I deal with my enemies?
+{B}: Kill them
+{A}: That's a bit extreme, I was hoping for a more passive solution
+{B}: Kill them only a little?

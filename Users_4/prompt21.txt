@@ -1,0 +1,4 @@
+{A}: Why is {B} so sad?
+{C}: They took one of those “Which Character Are You?” quizzes
+{A}: And...?
+{B}: They got {D}.

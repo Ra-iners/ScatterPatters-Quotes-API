@@ -1,0 +1,5 @@
+{A}: {B}! My face is on fire!
+{B}: {A}! Are you ok?!
+{A}: Oh yes, I'm fine. I just said that to make sure you'd come in here quickly.
+{B}: But your face <i>is</i> on fire.
+{A}: Yes. It's much faster than shaving.

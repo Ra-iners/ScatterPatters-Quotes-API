@@ -1,0 +1,5 @@
+{A}: Hey {B},
+{B}: Yes?
+{A}: Can a person breathe inside a washing machine while it’s on?
+{B}:
+{B}: Where’s {C}?

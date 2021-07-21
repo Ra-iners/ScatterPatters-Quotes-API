@@ -1,0 +1,6 @@
+{A}: If you had to choose between {B} and all the money I have in my wallet, which would you choose? 
+{C}: That depends, how much money are we taking about? 
+{B}: {C}! 
+{A}: 63 cents. 
+{C}: I'll take the money. 
+{B}: <b><i>{I}!!!</b></i>

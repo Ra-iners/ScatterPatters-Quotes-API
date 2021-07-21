@@ -1,0 +1,4 @@
+{A}: Welcome, fellow idiots 
+{B}: Hello, {A} 
+{A}: No, no, not you, you're not an idiot 
+{B}: You underestimate me

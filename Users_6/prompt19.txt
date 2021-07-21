@@ -1,0 +1,6 @@
+*The squad right before {A}'s wedding*
+{B}: Well I have to go, I have a wedding to attend.
+{C}: Wait... Oh! I have a wedding to attend too!
+{D}: Oh, I have a wedding to attend as well
+{E}: I THINK WE ALL HAVE WEDDINGS TO ATTEND
+{F}, panicked: <i><b>I THINK I HAVE A WEDDING TO OFFICIATE</i></b>

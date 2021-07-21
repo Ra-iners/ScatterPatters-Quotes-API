@@ -1,0 +1,7 @@
+{A}: Okay, truth or dare?
+{B}: Truth
+{A}: How many hours have you slept this week?
+{B}:
+{B}: ...Dare
+{A}: Go to bed.
+{B}: I don’t like this game.

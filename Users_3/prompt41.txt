@@ -1,0 +1,4 @@
+{A}: {B}, keep an eye on {C} today. They're going to say something to the wrong person and get punched.
+{B}: Sure, I’d love to see {C} get punched.
+{A}: Try again.
+{B}, sighing: I will stop {C} from getting punched.

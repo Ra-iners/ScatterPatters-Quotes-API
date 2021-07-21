@@ -1,0 +1,4 @@
+{A}: You are now one day closer to eating your next plate of nachos.
+{B}: That's the most hopeful thing I've ever heard.
+{C}: But what if I die tomorrow and never eat any nachos?
+{D}: Then tomorrow is nacho lucky day.

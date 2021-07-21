@@ -1,0 +1,4 @@
+{A}: Am I in trouble?
+{B}: Take a guess.
+{A}: No?
+{B}: Take another guess.

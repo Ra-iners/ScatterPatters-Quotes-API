@@ -1,0 +1,4 @@
+{A}: {B}, I'm sad.
+{B}: *Holds out arms for a hug* It’s going to be okay.
+{C}: {D}, I'm sad.
+{D}, nodding: mood.

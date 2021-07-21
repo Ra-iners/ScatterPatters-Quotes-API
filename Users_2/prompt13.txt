@@ -1,0 +1,3 @@
+{A}, pointing: May I sit there? 
+{B}: That's my lap 
+{A}: That doesn't answer my question, {B}.

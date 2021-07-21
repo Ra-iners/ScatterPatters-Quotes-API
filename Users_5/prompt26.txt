@@ -1,0 +1,7 @@
+{A}: We need more help. Maybe I should call my friends.
+{B}: ... Your what?
+{A}: My friends.
+{C}: Are they saying “friends”?
+{D}: I think they're being sarcastic.
+{E}: No, no, no, this is delirium, they've cracked from being awake all night. Hey, {A}! All of your friends are in this room.
+{A}: I have other friends! You asked me to make new friends, I made new friends! It was a task. I complete tasks.

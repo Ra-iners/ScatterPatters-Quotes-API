@@ -1,0 +1,4 @@
+*{A} is cooking*
+{B}: Any chance that’s for me?
+{A}: It’s for {D}. I’m planning on making some bad choices tonight, and I need them on my side.
+{C}: I never realized the forethought that went into being a disappointment.

@@ -1,0 +1,3 @@
+{A}, standing with their back turned: I’ve been expecting you, {B}.
+{B}: How did you do that without turning around?
+{A}: ... To be perfectly honest, the first couple of people I did that to were not you.

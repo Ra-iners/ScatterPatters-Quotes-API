@@ -1,0 +1,5 @@
+{A}: There are seven chairs and ten kids. What do you do? 
+{B}: Have everyone stand. 
+{C}: Bring three more chairs! 
+{D}: The most important ones can sit down. 
+{E}: Kill three.

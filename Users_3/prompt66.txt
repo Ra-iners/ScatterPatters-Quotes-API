@@ -1,0 +1,4 @@
+{A}: If {B} and I were drowning, who would you save?
+{C}: You two can’t swim?
+{B}: It’s a hypothetical question, {C}! who would you save?
+{C}: my time and effort.

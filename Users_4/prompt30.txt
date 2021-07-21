@@ -1,0 +1,4 @@
+{A}, setting down a card: Ace of spades
+{B}, pulling out an Uno card: +4
+{C}, pulling out a Pokémon card: Jolteon, I choose you
+{D}, trembling: What are we playing

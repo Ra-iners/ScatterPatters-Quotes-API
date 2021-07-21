@@ -1,0 +1,7 @@
+{A}, at a restaurant: You guys should get the orange soda, it's amazing.
+{B}: Okay
+Waiter: Can I get you guys anything to drink?
+{A}: Orange soda, please!
+{B}: I'll have the strawberry soda.
+{C}: Me too, strawberry soda.
+{A}:

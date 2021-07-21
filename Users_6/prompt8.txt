@@ -1,0 +1,6 @@
+{A}: Well, aren’t you all a rag-tag group of adventurers with unclear goals and good hearts! Oh, let me guess: you’re out to save the world! 
+{B}: Well, actually, that sounds like a pretty fair assessment. 
+{C}: More or less, I guess... 
+{D}: That sounds awesome! Let’s do that! 
+{E}: I’m new here, but I am open to the concept. 
+{F}: I thought that’s what we were doing, guys, come on!

@@ -1,0 +1,4 @@
+{A}: What are your goals?
+{B}: To pet all the dogs.
+{A}: No, fitness goals.
+{B}: To be able to run fast enough to pet all the dogs.

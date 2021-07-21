@@ -1,0 +1,7 @@
+{A}: Care for another sundae, weenie? 
+{B}: I am not a weenie! 
+{C}: Relax, you’re among friends. *raises their drink* 
+{B}: My friends don’t hang out at Weenie Hut Jr’s. 
+{D}: You tell ‘em, {B}! *sips their drink* 
+{B}: {D}, what’re you doing here? 
+{D}: I’m always here on Double Weenie Wednesdays.

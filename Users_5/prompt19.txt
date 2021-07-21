@@ -1,0 +1,13 @@
+{A}: That's it, we're gonna go out and find what we need!
+{D}: To the <i>city</i>?
+{A}: Yeah, no matter what!
+{E}: Well- How exactly do you propose we do that, exactly?
+{A}: I... I don't know!
+{B}: Oh come off it, be serious!
+{A}: I <i>am</i> serious!
+{B}: You're <i>insane</i>!
+{C}: Why, if only we were all wiener dogs, our problems would be solved!
+Everyone:
+{A}: What???
+{C}: Or maybe it was a basset hound!
+{B}, panicked: YOU'RE <i>ALL</i> INSANE!

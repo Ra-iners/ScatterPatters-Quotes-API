@@ -1,0 +1,2 @@
+{A}, tending to {B}'s wounds: How would you rate your pain? 
+{B}: Zero stars. Would NOT recommend.

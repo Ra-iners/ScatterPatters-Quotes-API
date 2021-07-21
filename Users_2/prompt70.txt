@@ -1,0 +1,7 @@
+{A}: I made tea.
+{B}: I don’t want tea.
+{A}: I did not make tea for you. This is my tea.
+{B}: Then why are you telling me?
+{A}: It is a conversation starter.
+{B}: That’s a lousy conversation starter.
+{A}: Oh, is it? We are conversing. Checkmate.

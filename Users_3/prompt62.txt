@@ -1,0 +1,6 @@
+Store Worker: Would a Mx. {A} please come to the front desk?
+{A}, arriving at the desk: Hello, is there a problem?
+Store Worker: points to {B} and {C}
+Store Worker: I believe they belong to you?
+{B} and {C}, simultaneously: We got lost :(
+{A}: I didn’t even bring you guys here with me-

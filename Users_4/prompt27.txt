@@ -1,0 +1,4 @@
+{A}: On the count of three, what's your favorite cake? One, two, three-
+{A} and {B}, in unison: Chocolate cake peanut butter frosting with chocolate chunks!
+{C}: Our turn, {D}! One, two, three- vanilla!
+{D}, deadpan: I've never had cake, what is cake.

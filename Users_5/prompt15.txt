@@ -1,0 +1,13 @@
+{A}: We’ve been conducting an ongoing study to see what {C} will and will not eat.
+{B}: Grass? Yes!
+{A}: Moss? Yes!!
+{B}: Leaves? Ohh, yes!
+{A}: Shoelaces? Strange but true!
+{B}: Worms? Sometimes!
+{A}: Rocks? Usually nah.
+{B}: Twigs? Usually!
+{A}: {E}'s cooking? Inconclusive!
+{D}: How did you… test this?
+{A}: You just hand them stuff and say ‘eat this’ and if they eat it, they eat it.
+{D}: ... I don’t know how to feel about this.
+{E}: IS THAT WHERE ALL MY SPARE SHOELACES WENT?

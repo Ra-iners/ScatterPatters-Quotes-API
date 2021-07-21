@@ -1,0 +1,4 @@
+{A}: So what do you do?
+{B}: I work in genetic research, and I'm currently trying to eliminate all Cancers.
+{A}: Wow, impressive.
+{B}: Then I'll move on to Leos.

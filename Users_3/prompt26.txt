@@ -1,0 +1,5 @@
+{A}, whispering to {B}, who’s on the phone with {C}: Ask them something!
+{B}: How are you feeling?
+{C}: Fine.
+{A}: Something personal!
+{B}: At what age did you first get your period?

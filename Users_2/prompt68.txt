@@ -1,0 +1,3 @@
+*{A} and {B} are doing something absurdly dangerous*
+{A}: I think Houdini did something like this once! Why, if I recall correctly, he was out of the hospital in no time!
+{B}, deadpan: Well that's encouraging.

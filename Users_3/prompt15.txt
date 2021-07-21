@@ -1,0 +1,6 @@
+{A}: Do you ever want to talk about your emotions, {B}? 
+{B}: … No. 
+{C}: I do! 
+{A}: I know, {C}. 
+{C}: I’m sad! 
+{A}: I know, {C}.

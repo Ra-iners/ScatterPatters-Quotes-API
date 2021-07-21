@@ -1,0 +1,5 @@
+{A}: What did you guys get in your yearbook?
+{B}: 'Prettiest Smile'
+{C}: 'Nicest Personality'
+{D}: 'Most likely to start a bar fight'
+{E}: 'Least likely to start a bar fight, but most likely to win one'

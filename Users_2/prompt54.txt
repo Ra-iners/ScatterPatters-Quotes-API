@@ -1,0 +1,5 @@
+{A}: I'm incredibly fast at math.
+{B}: Alright, what's 30x17?
+{A}: 47
+{B}: That's not even close.
+{A}: But it was fast.

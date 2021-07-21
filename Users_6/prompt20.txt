@@ -1,0 +1,8 @@
+{A}: Time for plan G.
+{B}: Don’t you mean plan B?
+{A}: No, we tried plan B a long time ago. I had to skip over plan C due to technical difficulties.
+{C}: What about plan D?
+{A}: Plan D was that desperate disguise attempt half an hour ago.
+{D}: What about plan E?
+{A}: I’m hoping not to use it. {E} dies in plan E.
+{F}: I like plan E.

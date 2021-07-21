@@ -1,0 +1,6 @@
+{A}: Dammit, {B}!
+{B}: What?! It wasn’t me!
+{A}: Sorry, force of habit. Dammit, {C}!
+{C}: Not me either.
+{A}: Oh...Then who set the house on fire?
+{D}: *whistles*

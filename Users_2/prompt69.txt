@@ -1,0 +1,8 @@
+{A}, talking to {B} on the phone: Did you preheat the oven like I told you to?
+{B}: You bet!
+{A}: At what temperature?
+{B}: 535.
+{A}: That's the clock.
+{B}:
+{A}:
+{B}: 536.

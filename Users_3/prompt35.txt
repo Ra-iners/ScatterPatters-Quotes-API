@@ -1,0 +1,5 @@
+{A}: Naturally, <i>we</i> are on the cutting edge of technology.
+{B}, amazed: Wow...
+{C}, to {B}: Well what does that mean?
+{B}: I don't know.
+{B}, to {A}: What does that mean?
